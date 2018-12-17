@@ -44,9 +44,9 @@ The following codes were used:
 
 **Screenshots from the program:** The circled values shows the reward for the various images when the agent encounters it.
 
-
+|  |  |
 |--|--|
-| ![enter image description here](https://github.com/SANDRAKUMI/Machine_Learning_Final-Exam/blob/master/Q_learning/addtriangle.PNG) | ![enter image description here](https://github.com/SANDRAKUMI/Machine_Learning_Final-Exam/blob/master/Q_learning/addtrireward.png) |
+|![enter image description here](https://github.com/SANDRAKUMI/Machine_Learning_Final-Exam/blob/master/Q_learning/addtriangle.PNG)  | ![enter image description here](https://github.com/SANDRAKUMI/Machine_Learning_Final-Exam/blob/master/Q_learning/addtrireward.png) |
 
 
 **By Sandra Kumi/20185122**
